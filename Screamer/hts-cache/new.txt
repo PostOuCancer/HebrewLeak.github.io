@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:42:02	457/457	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2019%20Aug%202020%2021:43:27%20GMT	https://new.swift-il.com/robots.txt		(from )
+21:42:02	6564/6564	---MCZ	200	added ('OK')	text/html	date:Sun,%2011%20Apr%202021%2008:16:15%20GMT	https://new.swift-il.com/	C:/Users/Ben/Desktop/Site/Screamer/new.swift-il.com/index.html	(from )
+21:42:02	808/808	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2019%20Aug%202020%2021:43:27%20GMT	https://new.swift-il.com/kqrkc4.html	C:/Users/Ben/Desktop/Site/Screamer/new.swift-il.com/kqrkc4.html	(from https://new.swift-il.com/)
+21:42:02	76352/76352	---M--	200	added ('OK')	image/png	etag:%225f29d420-12a40%22	https://new.swift-il.com/lightshot.png	C:/Users/Ben/Desktop/Site/Screamer/new.swift-il.com/lightshot.png	(from https://new.swift-il.com/)
+21:42:02	973641/973641	---M--	200	added ('OK')	video/mp4	etag:%226041e775-edb49%22	https://new.swift-il.com/video.mp4	C:/Users/Ben/Desktop/Site/Screamer/new.swift-il.com/video.mp4	(from https://new.swift-il.com/)
